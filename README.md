@@ -15,11 +15,7 @@ const Me = {
   name: "장현광",
   aged: 26,
   position: "Backend Developer",
-  skills: {
-    high: ["Javascript", "Node.js"],
-    middle: ["React", "HTML", "CSS"],
-    low: ["Typescript"],
-  },
+  skills: ["Javascript", "Node.js", "React", "Typescript", "HTML", "CSS"],
 };
 ```
 
