@@ -1,5 +1,7 @@
 ### Hi there 👋 - 🌱 I’m currently learning ...
 
+[![Typing SVG](https://typing-text-svg.herokuapp.com?color=%231EF71E&lines=%EC%97%B4%EC%A0%95%EB%84%98%EC%B9%98%EB%8A%94+%EC%A3%BC%EB%8B%88%EC%96%B4+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%5E%5E;JavaScript+TypeScript+Node.js+%2B+React)](https://git.io/typing-svg)
+
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeon-Gwang&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon-Gwang&layout=compact&theme=tokyonight&hide_border=false) |
 |:--------|:--------:|
 
