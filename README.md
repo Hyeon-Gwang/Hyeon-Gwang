@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeon-Gwang&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon-Gwang&layout=compact&theme=graywhite&hide_border=true
+
 <!--
 **Hyeon-Gwang/Hyeon-Gwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
