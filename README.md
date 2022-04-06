@@ -6,7 +6,8 @@
 
 <div align="center">
   <a href="https://blog.naver.com/wkdgusrhkd97"><img src="https://img.shields.io/badge/Naver blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>&nbsp;
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">&nbsp;</br>
+  <a href="https://viridian-meteor-4a9.notion.site/_bada-8d168435efeb4abb83d069f9ed3142be"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">&nbsp;</a>
+  </br>
   <hr>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=2d2d2d">&nbsp;
   <img src="https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=Typescript&logoColor=ffffff">&nbsp;
