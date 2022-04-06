@@ -9,13 +9,20 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">&nbsp;
 </p>
 
+
+<img align="right" src="https://user-images.githubusercontent.com/48178101/162020484-d32e7fc2-9568-40ae-a213-3dd5518c2c6e.png"></a>
 ### About Me:
 ```javascript
 const Me = {
   name: "장현광",
-  aged: 26,
+  birth: "19970528",
+  hobby: "Tennins 🎾",
   position: "Backend Developer",
-  skills: ["Javascript", "Node.js", "React", "Typescript", "HTML", "CSS"],
+  languages: ["Javascript", "Node.js", "React", "Typescript", "HTML", "CSS"],
+  status: [
+    "Learning Typescript/Javascript + Node.js.",
+    "Can make react application."
+  ]
 };
 ```
 
