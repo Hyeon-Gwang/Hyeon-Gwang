@@ -25,14 +25,12 @@
 ```javascript
 const Me = {
   name: "장현광",
+  sex: "male",
   birth: "19970528",
   hobby: "Tennins 🎾",
   position: "Backend Developer",
   languages: ["Javascript", "Node.js", "React", "Typescript", "HTML", "CSS"],
-  status: [
-    "Learning Typescript/Javascript + Node.js.",
-    "Can make react application."
-  ]
+  status: "Can make rule Node.js & React. Learning Typescript + Node.js.....",
 };
 ```
 
