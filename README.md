@@ -1,4 +1,4 @@
-### <p align="center">Hi there 👋 I'm Hyeongwang - 🌱 I’m currently learning ... Node.js + Typescript</p>
+### <p align="center">👋 Hello from Hyeongwang 👋</p>
 
 <!-- 깜빡이 -->
 <!--
